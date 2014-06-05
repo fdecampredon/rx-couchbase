@@ -1,0 +1,28 @@
+{
+  "name": "rx-couch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdecampredon/rx-couch.git"
+  },
+  "author": "",
+  "license": "Apache License V2",
+  "bugs": {
+    "url": "https://github.com/fdecampredon/rx-couch/issues"
+  },
+  "homepage": "https://github.com/fdecampredon/rx-couch",
+  "dependencies": {
+    "couchbase": "~1.2.4",
+    "couchtap": "~0.1.8",
+    "rx": "~2.2.24",
+    "pouchdb-collate": "~1.1.2"
+  },
+  "devDependencies": {
+    "tape": "~2.13.2"
+  }
+}
