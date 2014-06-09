@@ -4,7 +4,6 @@
     "camelcase" : true,
     "curly" : true,
     "indent": 4,
-    "latedef" : true,
     "newcap" : false,
     "noarg" : true,
     "undef" : true,
